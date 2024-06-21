@@ -30,6 +30,9 @@ Clone the repository:
 git clone https://github.com/your-username/memory-game.git
 ```
 
+## Contributing
+Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please fork the repository and create a pull request.
+
 ## Credits
 - Developed by SALKOGI07
 
