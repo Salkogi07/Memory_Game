@@ -23,7 +23,15 @@ This project implements a classic Memory Game using HTML, CSS, and JavaScript. T
 4. Match pairs of identical images to score points.
 5. Win by matching all pairs.
 
+
 ## Installation
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/memory-game.git
+```
+
+## Credits
+- Developed by SALKOGI07
+
+## License
+This project is licensed under the MIT License.
