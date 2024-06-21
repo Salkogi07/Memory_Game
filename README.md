@@ -11,10 +11,10 @@ This project implements a classic Memory Game using HTML, CSS, and JavaScript. T
 - Score tracking to count successful matches.
 - Responsive design with CSS grid layout.
 
-## Project Structure
-- **index.html**: Contains the game interface structure.
-- **app.js**: Manages game logic including card flipping, matching, and score tracking.
-- **style.css**: Defines visual styling for game elements.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
 ## How to Play
 1. Clone the repository.
@@ -27,7 +27,7 @@ This project implements a classic Memory Game using HTML, CSS, and JavaScript. T
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/Salkogi07/Memory_Game.git
 ```
 
 ## Contributing
